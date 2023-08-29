@@ -48,3 +48,5 @@ nada de estos lenguajes. Si quieres aprender luego, te recomendamos ver lo sigui
     // Para eso, utiliza script src dentro del head.
   </script>
 </html>
+git add index.html
+git commit -m "osucjp"
